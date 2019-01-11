@@ -19,7 +19,7 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 ## REGISTRATION
 
-To register for the workshop, please visit [EventBrite]( https://www.eventbrite.com/e/workshop-on-pb-qsp-the-future-of-qsp-with-pk-sim-mobi-osp-suite-registration-54161531599).
+To register for the workshop, please visit [EventBrite](https://www.eventbrite.com/e/workshop-on-pbpk-with-pk-sim-mobi-osp-suite-registration-54750727901).
 
 The workshop is currently restricted to 20 participants.
 
@@ -27,7 +27,7 @@ Registration includes coffee- and lunch breaks.
 
 ## AGENDA
 
-As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
+As a use-case for above learnings, we will develop PBPK models for different small molecule drugs as use-cases for modeling drug-drug interactions and the concepts of age-related PK, in detail:
 
 | Time (Tuesday June 11) | Topic |
 | ------------- | ------------- |
