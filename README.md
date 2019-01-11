@@ -11,7 +11,7 @@ During hands-on exercises you will learn how to:
 
 and, if time permits:
 - [x] Conduct parameter identifications in PK-Sim and MoBi
-- [x] Simulate and analyze your PBPK-QSP model in R
+- [x] Simulate your PBPK model in R
 
 This workshop will be held by consultants & scientists from esqlabs GmbH with extensive experience in the use of **PK-Sim® & MoBi®** in all application areas. 
 
